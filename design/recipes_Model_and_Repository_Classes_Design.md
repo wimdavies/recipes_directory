@@ -97,7 +97,7 @@ Using comments, define the method signatures (arguments and return value) and wh
 
 # Repository class
 # (in lib/recipe_repository.rb)
-RecipeRepository
+class RecipeRepository
 
   # Selecting all records
   # No arguments
